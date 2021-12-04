@@ -11,35 +11,36 @@ body {
 
 .title {
   background: #e3f4ff;
-  margin: 10px;
-  padding: 10px;
-  border-top: white 10px solid;
+  margin: 8px;
+  padding: 8px;
+  border-top: white 8px solid;
+  font-size: 16px;
 }
 
 .content {
   background: #e3f4ff;
-  margin: 10px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 10px;
+  margin: 8px;
   text-align: center;
-  padding: 10px;
-  border-bottom: white 10px solid;
+  padding: 8px;
+  border-bottom: white 8px solid;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 24px;
+  padding-right: 24px;
   margin: auto;
 }
